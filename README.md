@@ -49,4 +49,4 @@ export default tseslint.config({
 });
 ```
 
-#more info
+#more info 2
